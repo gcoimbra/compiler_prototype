@@ -1,0 +1,6 @@
+comecou
+    comentar CAFgabriel toma CAFbruno comentado
+    daniel CAFbruno toma 1;
+    daniel CAFgabriel toma CAFbruno amou 2;
+    nacif;
+acabou

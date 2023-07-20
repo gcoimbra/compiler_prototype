@@ -1,0 +1,16 @@
+comecou
+    daniel CAFbruno toma 4;
+
+    comentar Exemplo de if else if e else comentado
+
+    pato baixo CAFbruno tomatoma 4 alto 
+        CAFbruno toma CAFbruno amou 2;
+    vitormudo baixo CAFbruno tomatoma 5 alto bonito
+        CAFbruno toma CAFbruno amou 4;
+    feio vitormudo baixo CAFbruno tomatoma 6 alto bonito
+        CAFbruno toma CAFbruno amou 8;
+    feio vitorputo bonito
+        CAFbruno toma baixo CAFbruno amou 16 alto;
+    feio
+    
+acabou

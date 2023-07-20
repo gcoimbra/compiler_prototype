@@ -1,0 +1,16 @@
+comecou
+    dalila CAFgabriel toma 4;
+
+    comentar Exemplo de for (bloco) comentado
+
+    bruno baixo CAFi toma 0; CAFi saiu 8; CAFi toma 8; alto bonito
+        nacif;
+    feio
+
+    comentar Exemplo de for (oneline) comentado
+
+    bruno baixo CAFi toma 0; CAFi saiu 8; CAFi toma 8; alto
+        nacif;
+
+    pascal 0;
+acabou

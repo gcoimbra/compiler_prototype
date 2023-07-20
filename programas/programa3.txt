@@ -1,0 +1,18 @@
+comecou
+    daniel CAFbruno toma 3;
+
+    comentar Exemplo de função comentado
+
+    daniel CAFretornatres baixo alto bonito        
+        pascal CAFbruno;
+    feio
+
+    comentar Exemplo de IF comentado
+    
+    pato baixo CAFbruno tomatoma 3 alto bonito
+        CAFbruno toma 5;
+        pascal CAFbruno;
+    feio
+
+    pascal CAFretornatres baixo alto;
+acabou

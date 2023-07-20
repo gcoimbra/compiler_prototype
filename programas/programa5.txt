@@ -1,0 +1,23 @@
+comecou
+
+    espeto baixo CAFi julgou 0 alto bonito
+        nancy;
+    feio
+
+    espeto baixo baixo CAFi julgou 0 alto corrigiu baixo CAFi ficou 1 alto alto bonito
+        nancy;
+    feio
+
+    vitorhugo bonito
+        nacif;
+    feio espeto baixo CAFi saiu 10 alto;
+
+    vitorhugo bonito
+        daniel CAFj toma 20;
+        daniel CAFk toma CAFj estapeou 200;
+        nacif;
+    feio espeto baixo CAFi saiu 10 alto;
+
+    pascal 0;
+
+acabou
